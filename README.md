@@ -51,4 +51,4 @@
 
 ---
 
-![Vishv's github stats](https://github-readme-stats.vercel.app/api?username=saksham-johri&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox)
+![Vishv's github stats](https://github-readme-stats.vercel.app/api?username=vishvprakashrai&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox)
